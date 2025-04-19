@@ -331,6 +331,7 @@ h2 {
   background: url("./assets/images/pattern-glow.svg"),
     url("./assets/images/pattern-light-bg.svg"), hsl(var(--clr-neutral-50));
   background-position: top 376px right -472px;
+  background-repeat: no-repeat;
   padding: 14.8rem 0 8rem 0;
   overflow: hidden;
 }
