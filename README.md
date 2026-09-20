@@ -1,5 +1,7 @@
 # Tech Book Club Landing Page
 
+![Design preview for the Tech Book Club landing page](./design/preview.jpg)
+
 A responsive landing page for a fictional tech reading community. This project was built as a Frontend Mentor challenge to practice semantic HTML, modern CSS layout, and polished UI styling.
 
 ## Overview
